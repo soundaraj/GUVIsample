@@ -1,5 +1,5 @@
-N = input()
-l1= list(input())
+N = 7
+l1= [1,2,3,2,3,4,3]
 d= dict()
 l2=[]
 if N == len(l1):
